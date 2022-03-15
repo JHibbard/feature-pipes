@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/fpipes/__init__.py
+src/fpipes/cli.py
+src/fpipes.egg-info/PKG-INFO
+src/fpipes.egg-info/SOURCES.txt
+src/fpipes.egg-info/dependency_links.txt
+src/fpipes.egg-info/entry_points.txt
+src/fpipes.egg-info/requires.txt
+src/fpipes.egg-info/top_level.txt
